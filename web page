@@ -1,0 +1,101 @@
+<html>
+  <head>
+    <title>My Web Study</title>
+  </head>
+  <body>
+    <p id="top"><a href="https://google.com">Click here to go to google.com</a></p>
+    <p><a href="https://ebay.co.uk"><img src="ebay.png" width="120" height="100"</a></p>
+    <p><a href="https://ebay.co.uk"><img src="ebay.png" width="120" height="100"</a></p>
+    <p id="web"><a href="https://ebay.co.uk"><img src="web.jpg" width="120" height="100"</a></p>
+    <p><a href="https://ebay.co.uk"><img src="ebay.png" width="120" height="100"</a></p>
+    <p><a href="https://ebay.co.uk"><img src="ebay.png" width="120" height="100"</a></p>
+    <p><a href="https://ebay.co.uk"><img src="ebay.png" width="120" height="100"</a></p>
+    <p><a href="#top">Back to top</a></p>
+    <p><a href="#web">Back to web</a></p>
+
+    &euro; href="htts://google.com"&euro; <br>
+    <iframe src="https://ebay.co.uk"></iframe>
+    <iframe src="html%20note.html"></iframe><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/K-Ts-NFR62o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+   <p>prargraph</> 
+   <br>line</br>
+   <p>AAAAAAA<sup>tttttt</sup>AAAAAA</p><br>
+   <p>AAAAAAA<sub>tttttttt</sun>AAAAAA</p><br>
+   <del>zatulh</del><br>
+   <h>aaaaa</h>
+   <ol revest>
+      <li>aaa</li>
+      <li>aaa</li>
+      <li>aaa</li>
+    </ol>
+   <ol start="10">
+      <li>aaa</li>
+      <li>aaa</li>
+      <li>aaa</li>
+    </ol>
+   <ol type="A">
+     <li>aaa</li>
+     <li>aaa</li>
+     <li>aaa</li>
+    </ol>
+
+    <p>google html forlating serch</p>
+
+    <img src="ebay.png" width="100" height="100" align="center"><br>
+    <img src="https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png" width="100" height="100" align="center"><br>
+    <form>
+     <p>Username: <input type="text" placeholder="Your username"></p>
+     <p>Stay logged in: <input type="checkbox" checked></p>
+     <p>Under 18: <input type="radio"></p>
+     <p>Over 18: <input type="radio"></p>
+     <p>Under 18: <input type="radio" name="age"></p>
+     <p>Under 18: <input type="radio" name="age"></p>
+
+     <p>Favourite food:
+
+       <select>
+          <option>Pizza<option>
+          <option>Ice Cream<option>
+          <option>Sandwiches<option>
+       </select>
+     
+     </p> 
+     <p><input type="submit" value="Click me!"></p>
+    </form>
+    <table>
+
+      <thead>
+        
+        <tr>
+
+          <th>Colore</th>
+          <th>Best like<br>Game</th>
+          <th>Name</th>   
+
+        </tr>
+
+      </thead>
+      <tbody>
+        <tr>
+          <td>Red</td>
+          <td>Football</td>
+          <td>zyat</td>
+        </tr>
+
+        <tr>
+          <td>Green</td>
+          <td>Cricket</td>
+          <td>Opu</td>
+        </tr>
+
+        <tr>
+          <td>Orange</td>
+          <td>Bollyball</td>
+          <td>Ishan</td>
+        </tr>
+      </tbody>
+
+
+    </table>
+  </body>
+</html>
